@@ -1,6 +1,6 @@
 # A221066：哪些模四邻和的命中图案可以实现？
 
-**署名：** Chain.Ren · 独立研究 · [proof-v1.0.0](https://github.com/Asakitan/oeis-a221066/releases/tag/proof-v1.0.0) · 2026-11-27（Australia/Sydney）
+**署名：** Chain.Ren · 独立研究 · [proof-v1.0.1](https://github.com/Asakitan/oeis-a221066/releases/tag/proof-v1.0.1) · 2026-11-27（Australia/Sydney）
 
 OpenAI Codex 实质参与了推导、写作及复核。
 
